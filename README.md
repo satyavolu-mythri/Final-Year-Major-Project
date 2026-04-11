@@ -62,3 +62,6 @@ These help in:
 
 ## 📊 Output
 The system generates a **Unified Digital Identity Resume**:
+
+<img width="921" height="704" alt="image" src="https://github.com/user-attachments/assets/502b8076-2f4f-42d4-b706-9c58e1513d9f" />
+
